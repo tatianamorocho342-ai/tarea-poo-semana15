@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa Clásica",
+    "precio": 5.50
+  },
+  {
+    "id": 2,
+    "nombre": "Hamburguesa Doble Queso",
+    "precio": 7.50
+  },
+  {
+    "id": 3,
+    "nombre": "Papas Fritas Familiares",
+    "precio": 3.00
+  },
+  {
+    "id": 4,
+    "nombre": "Refresco Cola Grande",
+    "precio": 1.50
+  }
+]

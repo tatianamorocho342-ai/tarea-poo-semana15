@@ -1,0 +1,42 @@
+[
+    {
+        "id_venta": "V001",
+        "id_usuario": 2,
+        "nombre_usuario": "María Gómez",
+        "id_producto": 3,
+        "nombre_producto": "Papas Fritas Familiares",
+        "precio": 3.0
+    },
+    {
+        "id_venta": "V002",
+        "id_usuario": 3,
+        "nombre_usuario": "Cliente General",
+        "id_producto": 3,
+        "nombre_producto": "Papas Fritas Familiares",
+        "precio": 3.0
+    },
+    {
+        "id_venta": "V003",
+        "id_usuario": 1,
+        "nombre_usuario": "Juan Pérez",
+        "id_producto": 4,
+        "nombre_producto": "Refresco Cola Grande",
+        "precio": 1.5
+    },
+    {
+        "id_venta": "V004",
+        "id_usuario": 2,
+        "nombre_usuario": "María Gómez",
+        "id_producto": 1,
+        "nombre_producto": "Hamburguesa Clásica",
+        "precio": 5.5
+    },
+    {
+        "id_venta": "V005",
+        "id_usuario": 3,
+        "nombre_usuario": "Cliente General",
+        "id_producto": 2,
+        "nombre_producto": "Hamburguesa Doble Queso",
+        "precio": 7.5
+    }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "rol": "Mesero"
+  },
+  {
+    "id": 2,
+    "nombre": "María Gómez",
+    "rol": "Administrador"
+  },
+  {
+    "id": 3,
+    "nombre": "Cliente General",
+    "rol": "Cliente"
+  }
+]
